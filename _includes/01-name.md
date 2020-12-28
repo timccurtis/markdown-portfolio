@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Tim's Project
+## Welcome
+### Thanks for stoping by
+#### Glad to have you.
+##### Bye now.
